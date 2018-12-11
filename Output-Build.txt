@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: BE, Configuration: Debug Any CPU ------
+2>------ Build started: Project: DS, Configuration: Debug Any CPU ------
+3>------ Build started: Project: BL, Configuration: Debug Any CPU ------
+1>  BE -> F:\Studies\B\C#\Project\Project01_0837dotNet5779\BE\bin\Debug\BE.dll
+2>  DS -> F:\Studies\B\C#\Project\Project01_0837dotNet5779\DS\bin\Debug\DS.dll
+3>  BL -> F:\Studies\B\C#\Project\Project01_0837dotNet5779\BL\bin\Debug\BL.dll
+========== Build: 3 succeeded, 0 failed, 2 up-to-date, 0 skipped ==========
